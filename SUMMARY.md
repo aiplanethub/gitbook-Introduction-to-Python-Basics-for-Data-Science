@@ -12,3 +12,8 @@
 * [\[Optional\] What is Anaconda and Jupyter Notebook?](introduction-to-python/optional-what-is-anaconda-and-jupyter-notebook.md)
 * [\[Optional\] Installation of Python and Anaconda](introduction-to-python/optional-installation-of-python-and-anaconda.md)
 
+---
+
+* [M1: Introduction](m1-introduction/README.md)
+  * [What is Python?](m1-introduction/what-is-python.md)
+
