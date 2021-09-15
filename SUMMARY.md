@@ -4,7 +4,6 @@
 
 ## Introduction to Python
 
-* [What is Python?](introduction-to-python/what-is-python.md)
 * [Why Python for Data Science?](introduction-to-python/why-python-for-data-science.md)
 * [What is Google Colab and Colab Notebook?](introduction-to-python/what-is-google-colab-and-colab-notebook.md)
 * [Add and Execute code in Google Colab/Jupyter Notebook](introduction-to-python/add-and-execute-code-in-google-colab-jupyter-notebook.md)
@@ -14,6 +13,6 @@
 
 ---
 
-* [M1: Introduction](m1-introduction/README.md)
-  * [What is Python?](m1-introduction/what-is-python.md)
+* [Module 1: Introduction to Python](introduction-to-python-1/README.md)
+  * [What is Python?](introduction-to-python-1/what-is-python.md)
 
