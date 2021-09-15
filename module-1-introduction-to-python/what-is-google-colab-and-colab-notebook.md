@@ -28,7 +28,7 @@ Once you get comfortable, feel free to dive into the installation anytime later.
 
 There seems to some issue with visibility in the video with print function. Print function is usually used as follows print\(z\)  However, in the video it appears to be print.\(z\). due to screen recording  issue, so please use the correct one i.e print\(z\)
 
-{% embed url="https://youtu.be/H30JcowRWoU" %}
+{% embed url="https://youtu.be/H30JcowRWoU?t=24" %}
 
 Incase, if you are opening the video on youtube link, you may _**start from 24 secs and watch till 3 mins 10 secs**_ ****\(rest will be covered later\)  
 
