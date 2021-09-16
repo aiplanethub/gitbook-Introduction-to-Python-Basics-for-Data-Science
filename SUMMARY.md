@@ -11,4 +11,5 @@
   * [\[Optional\] Installation of Python and Anaconda](module-1-introduction-to-python/optional-installation-of-python-and-anaconda.md)
 * [Module 2: Variables, Data Types and Operators in Python](module-2-variables-data-types-and-operators-in-python/README.md)
   * [Untitled](module-2-variables-data-types-and-operators-in-python/untitled.md)
+* [M3](m3.md)
 
