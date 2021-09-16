@@ -38,3 +38,11 @@ x \* y  \# multiplication
 * Logical operators are used to combine conditional statements
 * Gives a boolean result \(True/False\)
 
+![](https://lh6.googleusercontent.com/79Kc6YKQb6DE2ttbK6UEc6S2SFjM1wXGjjhFbwtaDzSMIPiRsOuwXCNvN1LdFsGIHDuwZYlgL6nxmFaEISes7FKhoJrObgq4u9cRHN5WGLkXc_iMrjodf6FtP7DeDSvftepBraLC2Mc=s0)
+
+
+
+![](https://lh5.googleusercontent.com/dSO0iYrS2jpnz_Q8379WAzx-9vHYLnU9OyV12gvyf6cOXtUyaASMdI55bMRNXQiMIm_B1uoUqUZloL5S0dTjhlV797loZnEJYKW4n1vUiuMNVq_1aOosZUSl1WZgQozXZGZtDNvn6qg=s0)
+
+
+
