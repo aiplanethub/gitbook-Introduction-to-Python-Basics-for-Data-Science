@@ -9,4 +9,6 @@
   * [Write Your First Python Program](module-1-introduction-to-python/write-your-first-python-program.md)
   * [\[Optional\] What is Anaconda and Jupyter Notebook?](module-1-introduction-to-python/optional-what-is-anaconda-and-jupyter-notebook.md)
   * [\[Optional\] Installation of Python and Anaconda](module-1-introduction-to-python/optional-installation-of-python-and-anaconda.md)
+* [Module 2: Variables, Data Types and Operators in Python](module-2-variables-data-types-and-operators-in-python/README.md)
+  * [Untitled](module-2-variables-data-types-and-operators-in-python/untitled.md)
 
