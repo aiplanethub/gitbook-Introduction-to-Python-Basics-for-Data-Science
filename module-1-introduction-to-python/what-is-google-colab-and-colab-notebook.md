@@ -30,11 +30,5 @@ There seems to some issue with visibility in the video with print function. Prin
 
 {% embed url="https://youtu.be/H30JcowRWoU?t=24" %}
 
-Incase, if you are opening the video on youtube link, you may _**start from 24 secs and watch till 3 mins 10 secs**_ ****\(rest will be covered later\)  
-
-
-  
-
-
-###  
+Incase, if you are opening the video on youtube link, you may _**start from 24 secs and watch till 3 mins 10 secs**_ ****\(rest will be covered later\)
 
