@@ -1,7 +1,7 @@
 # Operators
 
 * Operators are used to perform operations on variables and values.
-* Python supports the following types of operators, we will be looking at some of the commonly used operators in next few slides.
+* Python supports the following types of operators, we will be looking at some of the commonly used operators.
 
 ![](https://lh3.googleusercontent.com/HyECZqt9X_5b-h4WiNVOfhuaqnO5TzOCQlM8h6AOvXq3X-l3gs7P6LkMIiuicbXcJ0zDyVuCb432pGIDLxFVaHVV97MKcTrbVcLEAT0Arq-_oLo2lTKMIHjzWuvXhC082XPWiXGhrQw=s0)
 
