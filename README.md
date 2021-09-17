@@ -1,4 +1,4 @@
-# Initial page
+# Overview
 
 Welcome to Mini Bootcamp: Introduction to Python Basics for Data Science :\)
 

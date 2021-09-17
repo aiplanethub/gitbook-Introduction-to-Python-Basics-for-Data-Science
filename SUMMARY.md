@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
 * [Module 1: Introduction to Python](module-1-introduction-to-python/README.md)
   * [What is Python?](module-1-introduction-to-python/what-is-python.md)
   * [Why Python for Data Science?](module-1-introduction-to-python/why-python-for-data-science.md)
