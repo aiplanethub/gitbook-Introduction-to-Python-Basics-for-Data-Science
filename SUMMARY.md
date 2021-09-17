@@ -12,4 +12,6 @@
 * [Module 2: Variables, Data Types and Operators in Python](module-2-variables-data-types-and-operators-in-python/README.md)
   * [Comments](module-2-variables-data-types-and-operators-in-python/untitled.md)
   * [Operators](module-2-variables-data-types-and-operators-in-python/operators.md)
+  * [Variables](module-2-variables-data-types-and-operators-in-python/variables.md)
+  * [Input and Output](module-2-variables-data-types-and-operators-in-python/input-and-output.md)
 
