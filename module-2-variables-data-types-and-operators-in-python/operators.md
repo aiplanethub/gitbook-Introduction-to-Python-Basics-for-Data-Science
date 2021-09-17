@@ -44,5 +44,3 @@ x \* y  \# multiplication
 
 ![](https://lh5.googleusercontent.com/dSO0iYrS2jpnz_Q8379WAzx-9vHYLnU9OyV12gvyf6cOXtUyaASMdI55bMRNXQiMIm_B1uoUqUZloL5S0dTjhlV797loZnEJYKW4n1vUiuMNVq_1aOosZUSl1WZgQozXZGZtDNvn6qg=s0)
 
-
-
