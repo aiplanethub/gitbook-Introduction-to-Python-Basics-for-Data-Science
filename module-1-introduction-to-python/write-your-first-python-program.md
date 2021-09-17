@@ -6,7 +6,3 @@ Write a Python program to print the given statement.
 
 "Hello, DPhi! Today I have executed my very first Python program. Thanks!"
 
-
-
-
-
