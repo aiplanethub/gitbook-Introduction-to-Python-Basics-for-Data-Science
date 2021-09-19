@@ -1,7 +1,5 @@
 # Strings
 
-
-
 ### Sequence Types
 
 * Sequences allow you to store multiple values in an **organized and efficient way**. 
