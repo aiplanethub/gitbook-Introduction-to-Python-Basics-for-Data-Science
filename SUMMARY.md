@@ -14,4 +14,9 @@
   * [Operators](module-2-variables-data-types-and-operators-in-python/operators.md)
   * [Variables](module-2-variables-data-types-and-operators-in-python/variables.md)
   * [Input and Output](module-2-variables-data-types-and-operators-in-python/input-and-output.md)
+* [Practice: Quiz 1](practice-quiz-1.md)
+* [Module 3: Data Structures, Data Types and Strings in Python](module-3-data-structures-data-types-and-strings-in-python/README.md)
+  * [Data Structures and Data Types](module-3-data-structures-data-types-and-strings-in-python/data-structures-and-data-types.md)
+  * [Strings](module-3-data-structures-data-types-and-strings-in-python/strings.md)
+  * [Practice: Quiz 2](module-3-data-structures-data-types-and-strings-in-python/practice-quiz-2.md)
 
