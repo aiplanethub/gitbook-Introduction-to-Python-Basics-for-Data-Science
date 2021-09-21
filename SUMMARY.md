@@ -19,4 +19,12 @@
   * [Data Structures and Data Types](module-3-data-structures-data-types-and-strings-in-python/data-structures-and-data-types.md)
   * [Strings](module-3-data-structures-data-types-and-strings-in-python/strings.md)
   * [Practice: Quiz 2](module-3-data-structures-data-types-and-strings-in-python/practice-quiz-2.md)
+* [Module 4: Lists, Tuples and Dictionary](module-4-lists-tuples-and-dictionary/README.md)
+  * [Introduction & Implementation Of List in Python](module-4-lists-tuples-and-dictionary/introduction-and-implementation-of-list-in-python.md)
+  * [List Methods](module-4-lists-tuples-and-dictionary/list-methods.md)
+  * [Practice Quiz: Lists](module-4-lists-tuples-and-dictionary/practice-quiz-lists.md)
+  * [Introduction & Implementation of Tuple in Python](module-4-lists-tuples-and-dictionary/introduction-and-implementation-of-tuple-in-python.md)
+  * [Practice Quiz: Tuples](module-4-lists-tuples-and-dictionary/practice-quiz-tuples.md)
+  * [Introduction & Implementation of Dictionary in Python](module-4-lists-tuples-and-dictionary/introduction-and-implementation-of-dictionary-in-python.md)
+  * [Practice Quiz: Dictionary](module-4-lists-tuples-and-dictionary/practice-quiz-dictionary.md)
 
