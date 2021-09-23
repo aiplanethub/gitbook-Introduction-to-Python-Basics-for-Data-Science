@@ -9,3 +9,5 @@
 
 ### Examples of in-built functions
 
+![](../.gitbook/assets/image%20%285%29.png)
+
