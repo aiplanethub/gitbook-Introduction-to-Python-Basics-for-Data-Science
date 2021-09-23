@@ -27,4 +27,8 @@
   * [Practice Quiz: Tuples](module-4-lists-tuples-and-dictionary/practice-quiz-tuples.md)
   * [Introduction & Implementation of Dictionary in Python](module-4-lists-tuples-and-dictionary/introduction-and-implementation-of-dictionary-in-python.md)
   * [Practice Quiz: Dictionary](module-4-lists-tuples-and-dictionary/practice-quiz-dictionary.md)
+* [Module 5: Functions and Packages](module-5-functions-and-packages/README.md)
+  * [Functions](module-5-functions-and-packages/functions.md)
+  * [sum\(\) and round\(\) functions](module-5-functions-and-packages/sum-and-round-functions.md)
+  * [Define Functions](module-5-functions-and-packages/define-functions.md)
 
