@@ -1,4 +1,4 @@
-# Why Python for Data Science?
+## Why Python for Data Science?
 
 * Free and open source
 * Great community
