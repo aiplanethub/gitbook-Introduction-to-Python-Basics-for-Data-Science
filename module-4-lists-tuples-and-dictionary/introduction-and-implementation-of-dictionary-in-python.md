@@ -1,11 +1,11 @@
 # Introduction & Implementation of Dictionary in Python
 
 * Dictionary is an unordered collection of key-value pairs.\
-   
+  &#x20;
 * Real word dictionaries are a good analogy to understand them: they contain a list of items(words), each item has a key(the word) and a value(the word’s meaning).\
 
 * It generally is used when we have a huge amount of data.\
-   
+  &#x20;
 * It is defined within braces with each item being in the form of key: value pair. Syntax –`my_dict = {`\
   `"key1":"value1",`\
   `"key2":"value2",`\

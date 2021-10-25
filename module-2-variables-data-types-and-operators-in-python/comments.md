@@ -4,5 +4,5 @@
 * Python ignores everything after the hash mark and up to the end of the line. You can insert them anywhere in your code!
 * A shortcut for adding comments is by using CTRL + /
 
-![](../.gitbook/assets/image.png)
-
+![
+](<../.gitbook/assets/image (7).png>)
