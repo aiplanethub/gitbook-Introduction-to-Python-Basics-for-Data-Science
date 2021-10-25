@@ -11,14 +11,14 @@
 * Mac OS: [https://docs.anaconda.com/anaconda/install/mac-os/](https://docs.anaconda.com/anaconda/install/mac-os/)
 * Linux OS: [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)
 
-### **Now Let’s Open Anaconda Navigator**
+### Now Let’s Open Anaconda Navigator
 
 * Once you install and open anaconda, you will see the below screen.
 * Click “Launch” under Jupyter Notebook in anaconda navigator in order to open a notebook in your default web browser.
 
 ![](https://lh4.googleusercontent.com/m1yMG5oHvAKY-x9ORQXVNXJ8reoKi-wjnoiDcl9wr62X3mvoKV7tYQs-nXjT8j0X2MgJFQZHJdrqZfO9QX7OFwrVmSh_EXu9BShxkx-ZvwwVKFZ9tLimOthE0zlCbMDgyeVLEJHPiwQ=s0)
 
-### **Jupyter Interface**
+### Jupyter Interface
 
 * This is how the basic jupyter interface looks like! 
 * No files might be displayed if your folder is empty.
@@ -30,4 +30,3 @@
 To create a new notebook, go to New at the top right corner and select Notebook - Python 3.
 
 ![](https://lh5.googleusercontent.com/p7rzkowKScuTgQpd72K8bi75TwKh1CgMYtoIKfAYg3EkuPWK3R1K7qelhXwLWyUY4HganF71gx0P1h34j2YDKH0hBQQf83YmPU2T5lCBBJPFy5oA-fmDgrSdgn6O-uVuv6nZvVzJ08U=s0)
-
