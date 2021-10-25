@@ -5,4 +5,4 @@
 * A shortcut for adding comments is by using CTRL + /
 
 ![
-](<../.gitbook/assets/image (7).png>)
+](<../.gitbook/assets/image (7) (1).png>)
