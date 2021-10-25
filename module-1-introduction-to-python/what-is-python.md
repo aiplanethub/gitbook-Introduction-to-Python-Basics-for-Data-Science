@@ -1,4 +1,4 @@
-# What is Python?
+## What is Python?
 
 Python is one of the most popular programming languages in the world. It gained prominence owing to its simplicity and ease of use. Its syntax is very similar to english language.
 
