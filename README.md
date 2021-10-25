@@ -22,3 +22,10 @@ In this 10-day bootcamp, there will be:
 
 * There will be 1 Quiz and 1 Final Assignment, both of which are mandatory to attempt for the bootcamp completion.
 * Certificate: In order to be eligible for the certificate, you should submit both the assignments with a total score of minimum 60% (including both).
+
+### Found any errors in content?
+
+* In case you found any errors or typos in the learning content, please feel free to make a Pull Request on GitHub and suggest the changes. Our team will review it and fix it.
+* Link to the repository: [https://github.com/dphi-official/Introduction-to-Python-Basics-for-Data-Science](https://github.com/dphi-official/Introduction-to-Python-Basics-for-Data-Science)
+
+&#x20;Happy Learning :)
