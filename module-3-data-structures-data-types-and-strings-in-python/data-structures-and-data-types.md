@@ -1,14 +1,14 @@
 # Data Structures and Data Types
 
-* If you’re learning Python from multiple sources, you might encounter the terms data structures and data types being used interchangeably. \
+* If you’re learning Python from multiple sources, you might encounter the terms data structures and data types being used interchangeably.
 
-* **Definition: **Data structure is a general computer science concept. Its definition reads as follows on Wikipedia:\
+* **Definition: **Data structure is a general computer science concept. Its definition reads as follows on Wikipedia:
 
-* **Data structure is a data organization, management, and storage format that enables efficient access and modification.** More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.\
+* **Data structure is a data organization, management, and storage format that enables efficient access and modification.** More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
-* Whereas Data type is a concept specific to a programming language. In a way, it is a concrete implementation of a data structure in a particular programming language (be it python or any other language)\
+* Whereas Data type is a concept specific to a programming language. In a way, it is a concrete implementation of a data structure in a particular programming language (be it python or any other language)
 
-* **The actual definition of what constitutes a "type" varies among programming languages. **Talking about Python, there are basic data types like int, float, string etc. You can use the built-in types like list, set etc. which we will be covering in this session.\
+* **The actual definition of what constitutes a "type" varies among programming languages. **Talking about Python, there are basic data types like int, float, string etc. You can use the built-in types like list, set etc. which we will be covering in this session.
 
 * Calling these data types as data structures won’t be wrong because there is no major difference between the two in Python.
 
