@@ -15,8 +15,8 @@ In this 10-day bootcamp, there will be:
 * All the learning modules will be released on 25th October at 7:00 PM CET/ 10:30 PM IST.
 * To accommodate learners from across the globe, we are putting the learning modules in offline format instead of having live sessions. This will allow you to learn at your own time.
 * If you face any issues while learning, feel free to drop a message on #python-mini-bootcamp channel on [Slack](https://join.slack.com/t/dphibootcamp/shared\_invite/zt-ndk1sg93-31J2Fnzn\~pLkbqMTCJrfaw).
-* In between learning modules, there are some practice quizzes. It is optional for you to attempt them for your own learning.&#x20;
-* Please note that the scores of the practice quizzes won't be calculated in evaluations.&#x20;
+* In between learning modules, there are some practice quizzes. It is optional for you to attempt them for your own learning.
+* Please note that the scores of the practice quizzes won't be calculated in evaluations.
 
 ### Assignment Guidelines
 
