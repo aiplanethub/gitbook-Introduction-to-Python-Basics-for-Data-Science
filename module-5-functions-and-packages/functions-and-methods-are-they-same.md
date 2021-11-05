@@ -14,6 +14,4 @@
 
 * If this makes no sense to you (yet), don’t you worry. I promise, the idea will grow on you as you use Python more and more – especially when you start to define your own functions and methods.\
 
-* All methods are functions, but not all functions are methods!
-
 ![](https://lh5.googleusercontent.com/q7t44BmybshCYmDqTe1PGph8gMB2EBTLqDg0aO4D-F0f4XnJqqhe3METV2XiUhwvMQLhHc4t5hMfLfTUWAbBntt0FhQIYXUm20BXAYG7G3VMWnatra2RXGnZrSHDJxbxn8ILlmMtZ4Q=s0)
