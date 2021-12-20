@@ -8,6 +8,6 @@
 
 * Example: A = (‘Brush’, ‘Leuven’, 48851964400, 3.14, ‘Mom’)
 
-**Note: **The tutor in this video used python console. Nothing to worry here, you can use the same code and run it on jupyter notebook too.
+**Note:** The tutor in this video used python console. Nothing to worry here, you can use the same code and run it on jupyter notebook too.
 
 {% embed url="https://youtu.be/XQOWZidQSnE" %}

@@ -2,16 +2,16 @@
 
 ### Sequence Types
 
-* Sequences allow you to store multiple values in an **organized and efficient way**. 
-* There are seven sequence types: strings, Unicode strings, lists, tuples, bytearrays, buffers, and xrange objects. 
+* Sequences allow you to store multiple values in an **organized and efficient way**.&#x20;
+* There are seven sequence types: strings, Unicode strings, lists, tuples, bytearrays, buffers, and xrange objects.&#x20;
 * _Nothing to worry looking at this long list, you will get to know it gradually._
 
 ### Python Strings
 
-* Strings are sequence of characters. 
-* Let us see some examples of String: My name is Rahul, Rahul, Go home. All these are examples of String. 
-* In Python, Strings are called str. 
-* There is a specific way of defining String in Python – it is defined within single quote (‘) or double quotes (“) or even triple quotes (“‘). 
+* Strings are sequence of characters.&#x20;
+* Let us see some examples of String: My name is Rahul, Rahul, Go home. All these are examples of String.&#x20;
+* In Python, Strings are called str.&#x20;
+* There is a specific way of defining String in Python – it is defined within single quote (‘) or double quotes (“) or even triple quotes (“‘).&#x20;
 
 ### Accessing String Elements
 
@@ -21,9 +21,9 @@
 * Example: \
   **`a = "Hello, World!"`**\
   **`print(a[1])`**
-* ** Will give an output e. Can you understand why?**
+* &#x20;**Will give an output e. Can you understand why?**
 
-![](https://lh5.googleusercontent.com/c1mE3QqOIu6tDGHVRxGW_vhmNgTywCuMij-ZzFBGrXrUxvI1PYMGeWGssS3n\_4PqTqcnnkx3oPCs2feWKRFWfMLFXLdu4HgxArUdXSXKr5Sndy5IR98bWNYg8hHPk1ZzzYDnCXR\_28U=s0)
+![](https://lh5.googleusercontent.com/c1mE3QqOIu6tDGHVRxGW\_vhmNgTywCuMij-ZzFBGrXrUxvI1PYMGeWGssS3n\_4PqTqcnnkx3oPCs2feWKRFWfMLFXLdu4HgxArUdXSXKr5Sndy5IR98bWNYg8hHPk1ZzzYDnCXR\_28U=s0)
 
 * Hope you got the answer to the previous question now!
 
@@ -33,7 +33,7 @@
 * Specify the start index and the end index, separated by a colon, to return a part of the string. Note that the character of the end index is not included.
 * Suppose we want to print World from the string “Hello World”. We can do so as below:
 
-![](https://lh5.googleusercontent.com/FQ_wXPLtEywN822BAg7TZrwUAjFvc3jjzPqi8q-3oHY1Myqzt_d\_8wUwy1qA0xX0OScYUa7Ga9NjRmrPXoSnabFDphZlnNbuyzbg6TlI7fzN9tDdZ8i5AClPRpZxIqokDSqchtMIS5s=s0)
+![](https://lh5.googleusercontent.com/FQ\_wXPLtEywN822BAg7TZrwUAjFvc3jjzPqi8q-3oHY1Myqzt\_d\_8wUwy1qA0xX0OScYUa7Ga9NjRmrPXoSnabFDphZlnNbuyzbg6TlI7fzN9tDdZ8i5AClPRpZxIqokDSqchtMIS5s=s0)
 
 ### Negative Indexing
 
@@ -64,7 +64,7 @@
 
 * We can also add spaces between two strings
 
-![](https://lh6.googleusercontent.com/RfPVFKHFAPvXS8jB9oQRSwTskU-j2JbaOiOMFmrhNWPRI55gqUGJCqrdWQHC07OFHmo7uy0C2XtzTi39rfs-qoQ0ezcWfb4HEKKY_K0zKDNySXq1jUJ_Tx5s5P96Llkyx5b3mCcvf2E=s0)
+![](https://lh6.googleusercontent.com/RfPVFKHFAPvXS8jB9oQRSwTskU-j2JbaOiOMFmrhNWPRI55gqUGJCqrdWQHC07OFHmo7uy0C2XtzTi39rfs-qoQ0ezcWfb4HEKKY\_K0zKDNySXq1jUJ\_Tx5s5P96Llkyx5b3mCcvf2E=s0)
 
 ### String Length
 
@@ -79,5 +79,5 @@
 ### **String Methods**
 
 * Python has a set of built-in methods that you can use on strings.
-* Must learn: Learn about important string methods from the below cheatsheet: [https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet) 
+* Must learn: Learn about important string methods from the below cheatsheet: [https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet)&#x20;
 * Tip: If you are unable to follow, run the code and make out the difference.
