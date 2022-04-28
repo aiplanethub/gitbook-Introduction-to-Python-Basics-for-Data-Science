@@ -29,5 +29,4 @@
   * [Methods](module-5-functions-and-packages/methods.md)
   * [Functions and Methods: Are they Same?](module-5-functions-and-packages/functions-and-methods-are-they-same.md)
   * [Packages in Python](module-5-functions-and-packages/packages-in-python.md)
-* [(Optional): Additional Practice](optional-additional-practice.md)
 * [Final Assignment](final-assignment.md)
